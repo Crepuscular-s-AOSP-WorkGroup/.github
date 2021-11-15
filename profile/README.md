@@ -2,7 +2,7 @@
 
 ### Here is Crepucsular's AOSP Project
 
-### Status: A11 WIP, A12 Testing
+### Status: A11 PASSED (android_11.0.0_r45), A12 Testing
 
  - Nothing optimizations
  - Nothing customizations

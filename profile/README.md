@@ -2,7 +2,7 @@
 
 ### Here is Crepucsular's AOSP Project
 
-### Status: A11 PASSED (android_11.0.0_r45), A12 Testing
+### Status: Woring on Android 13 ( I call it tailwind ~ )
 
  - Nothing optimizations
  - Nothing customizations

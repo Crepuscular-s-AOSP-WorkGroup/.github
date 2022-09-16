@@ -2,7 +2,7 @@
 
 ### Here is Crepucsular's AOSP Project
 
-### Status: Woring on Android 13 ( I call it tailwind ~ )
+### Status: Working on Android 13 ( I call it tailwind ~ )
 
  - Nothing optimizations
  - Nothing customizations
